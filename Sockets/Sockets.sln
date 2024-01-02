@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sockets", "Sockets\Sockets.csproj", "{BE427E7E-B8D8-47C7-8872-75EBEC1BC403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE427E7E-B8D8-47C7-8872-75EBEC1BC403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE427E7E-B8D8-47C7-8872-75EBEC1BC403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE427E7E-B8D8-47C7-8872-75EBEC1BC403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE427E7E-B8D8-47C7-8872-75EBEC1BC403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CC676A4-5CE1-49F1-AE63-0F3F9A898E92}
+	EndGlobalSection
+EndGlobal
